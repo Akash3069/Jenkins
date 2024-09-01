@@ -24,7 +24,7 @@ TemplateMo 548 Training Studio
 https://templatemo.com/tm-548-training-studio
 
 
-    <!-- Additional CSS Files -->
+   Additional CSS Files -->
 
     
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
